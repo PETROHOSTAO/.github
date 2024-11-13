@@ -2,8 +2,6 @@
 
 **Hospedagem de Sites com Especialistas Angolanos 🇦🇴**
 
-[Image of Logo da Petrohost]
-
 A PETROHOST é uma provedora líder de hospedagem de sites em Angola 🌐, dedicada a promover o crescimento digital 📈. Oferecemos soluções de hospedagem 💻, registro de domínios 🌍 e emails personalizados 📧.
 
 ![logo-azul](https://github.com/user-attachments/assets/015aef6e-0ea1-4b57-80c1-208dd77b8613)
@@ -29,9 +27,8 @@ A PETROHOST é uma provedora líder de hospedagem de sites em Angola 🌐, dedic
 ## Entre em Contato 📞
 
 * **Site:** [petrohost.ao](https://petrohost.ao/)
-* **Email:** [email da Petrohost]
-* **Telefone:** [telefone da Petrohost]
-* **Redes Sociais:** [links para as redes sociais da Petrohost]
+* **Email:** [email da Petrohost](support@petrohost.ao)
+* **Telefone:** [telefone da Petrohost](+244 923 000 143)
 
 
 ##  Contribuições 🤝
